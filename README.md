@@ -96,6 +96,6 @@ This part of the project is actually a state machine that generates an alert by 
 - We consider the state number in the state machine to be equal to the number of abnormal states.
 - We implement a Moore-based machine with a descriptive model.
 
-To this project and generate circuit schematics, we use the Xilinx ISE Design Suite environment.
+To this project and generate circuit schematics, we use the Xilinx ISE Design Suite environment and test benches.
 
 
